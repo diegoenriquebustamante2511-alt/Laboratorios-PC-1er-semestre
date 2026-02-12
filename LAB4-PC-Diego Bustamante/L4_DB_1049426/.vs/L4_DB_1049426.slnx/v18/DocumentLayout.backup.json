@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8658362F-EC0E-BE98-34AB-4BB0D0F5739F}|L4_DB_1049426\\L4_DB_1049426.csproj|c:\\users\\spoti\\onedrive\\desktop\\url\\pensamiento computacional\\c#\\laboratorios-pc-1er-semestre\\lab4-pc-diego bustamante\\l4_db_1049426\\l4_db_1049426\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658362F-EC0E-BE98-34AB-4BB0D0F5739F}|L4_DB_1049426\\L4_DB_1049426.csproj|solutionrelative:l4_db_1049426\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 109,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\Program.cs",
+              "RelativeDocumentMoniker": "L4_DB_1049426\\Program.cs",
+              "ToolTip": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\Program.cs*",
+              "RelativeToolTip": "L4_DB_1049426\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:57:14.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
