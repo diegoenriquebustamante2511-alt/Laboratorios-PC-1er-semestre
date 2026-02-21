@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\L4_DB_1049426.csproj": {}
+    "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB5-PC-Diego Bustamante\\LAB5_D_1049426\\LAB5_D_1049426\\LAB5_D_1049426.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\L4_DB_1049426.csproj": {
+    "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB5-PC-Diego Bustamante\\LAB5_D_1049426\\LAB5_D_1049426\\LAB5_D_1049426.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\L4_DB_1049426.csproj",
-        "projectName": "L4_DB_1049426",
-        "projectPath": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\L4_DB_1049426.csproj",
+        "projectUniqueName": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB5-PC-Diego Bustamante\\LAB5_D_1049426\\LAB5_D_1049426\\LAB5_D_1049426.csproj",
+        "projectName": "LAB5_D_1049426",
+        "projectPath": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB5-PC-Diego Bustamante\\LAB5_D_1049426\\LAB5_D_1049426\\LAB5_D_1049426.csproj",
         "packagesPath": "C:\\Users\\spoti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB4-PC-Diego Bustamante\\L4_DB_1049426\\L4_DB_1049426\\obj\\",
+        "outputPath": "C:\\Users\\spoti\\OneDrive\\Desktop\\URL\\Pensamiento computacional\\C#\\Laboratorios-PC-1er-semestre\\LAB5-PC-Diego Bustamante\\LAB5_D_1049426\\LAB5_D_1049426\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
